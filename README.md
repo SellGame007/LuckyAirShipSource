@@ -3,8 +3,8 @@
 # 看下面展示图，本套代码后台为go，前端vue,支持演示测试，源码售价2800U，搭建需要100U，确定需要再联系：https://t.me/yym3979
 
 ## For Code(代码目录展示)
-![Example Image](/AdminCode.png)
-![Example Image](/WebCode.png)
+![Example Image](/AdminCode.jpg)
+![Example Image](/WebCode.jpg)
 
 ## For Admin(管理端，演示代理)
 ![Example Image](/one.png)
